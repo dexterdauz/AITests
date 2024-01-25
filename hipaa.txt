@@ -1,12 +1,13 @@
-Basic Principle. A major purpose of the Privacy Rule is to define and limit the
-circumstances in which an individual’s protected heath information may be used or
-disclosed by covered entities. A covered entity may not use or disclose protected
-health information, except either: (1) as the Privacy Rule permits or requires; or (2) as
-the individual who is the subject of the information (or the individual’s personal
-representative) authorizes in writing.16
-Required Disclosures. A covered entity must disclose protected health information
-in only two situations: (a) to individuals (or their personal representatives)
-specifically when they request access to, or an accounting of disclosures of, their
-protected health information; and (b) to HHS when it is undertaking a compliance
-investigation or review or enforcement action.17 See OCR “Government Access”
-Guidance. 
+Permitted Uses and Disclosures
+
+Permitted Uses and Disclosures. A covered entity is permitted, but not required, to use and disclose protected health information, without an individual's authorization, for the following purposes or situations: (1) To the Individual (unless required for access or accounting of disclosures); (2) Treatment, Payment, and Health Care Operations; (3) Opportunity to Agree or Object; (4) Incident to an otherwise permitted use and disclosure; (5) Public Interest and Benefit Activities; and (6) Limited Data Set for the purposes of research, public health or health care operations.18 Covered entities may rely on professional ethics and best judgments in deciding which of these permissive uses and disclosures to make.
+
+(1) To the Individual. A covered entity may disclose protected health information to the individual who is the subject of the information.
+
+(2) Treatment, Payment, Health Care Operations. A covered entity may use and disclose protected health information for its own treatment, payment, and health care operations activities.19 A covered entity also may disclose protected health information for the treatment activities of any health care provider, the payment activities of another covered entity and of any health care provider, or the health care operations of another covered entity involving either quality or competency assurance activities or fraud and abuse detection and compliance activities, if both covered entities have or had a relationship with the individual and the protected health information pertains to the relationship. See additional guidance on Treatment, Payment, & Health Care Operations.
+
+Treatment is the provision, coordination, or management of health care and related services for an individual by one or more health care providers, including consultation between providers regarding a patient and referral of a patient by one provider to another.20
+
+Payment encompasses activities of a health plan to obtain premiums, determine or fulfill responsibilities for coverage and provision of benefits, and furnish or obtain reimbursement for health care delivered to an individual21 and activities of a health care provider to obtain payment or be reimbursed for the provision of health care to an individual.
+
+Health care operations are any of the following activities: (a) quality assessment and improvement activities, including case management and care coordination; (b) competency assurance activities, including provider or health plan performance evaluation, credentialing, and accreditation; (c) conducting or arranging for medical reviews, audits, or legal services, including fraud and abuse detection and compliance programs; (d) specified insurance functions, such as underwriting, risk rating, and reinsuring risk; (e) business planning, development, management, and administration; and (f) business management and general administrative activities of the entity, including but not limited to: de-identifying protected health information, creating a limited data set, and certain fundraising for the benefit of the covered entity.22
